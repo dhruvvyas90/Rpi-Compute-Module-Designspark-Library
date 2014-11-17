@@ -15,3 +15,4 @@ Installing files to the path
 4. Restart design spark.
 
 
+Files are provided "as is" with no express or implied warranty or support.
