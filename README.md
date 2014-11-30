@@ -2,7 +2,7 @@
 Rpi-Compute-Module-Designspark-Library
 ======================================
 
-Files in this repository is just a conversion of eagle libraries. (Link : http://www.element14.com/community/servlet/JiveServlet/download/70047-3-156027/e14_Rpi_Compute_RevA.zip)
+Files in this repository are just a conversion of eagle libraries. (Link : http://www.element14.com/community/servlet/JiveServlet/download/70047-3-156027/e14_Rpi_Compute_RevA.zip)
 
 
 ======================================
